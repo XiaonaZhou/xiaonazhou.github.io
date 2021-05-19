@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<!---
 I am an Assistant Professor of Computer Science at Virginia Tech. Prior to VT, I spent a year as research scientist (Research Staff Member) at IBM Almaden Research Center, working on Machine Learning, Natural Language Processing  and Information Retrieval problems. I obtained my Ph.D. from the [Computer Science Department](http://cs.illinois.edu), [University of Illinois at Urbana - Champaign](http://illinois.edu), under the supervision of Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu), [Text Information Management and Analysis Group (TIMAN)](http://sifaka.cs.uiuc.edu/ir). 
 
 
@@ -31,7 +31,7 @@ My research interests lie in the intersection of Data Science, Big Data, Machine
 - **November, 2019:** Defended my PhD thesis: Data Quality in the Deep Learning Era and joined IBM Research.
 - **October, 2019:** Attending [ISWC 2019](https://iswc2019.semanticweb.org/) in Auckland, NZ (travel award)
 - **August, 2019:** Selected to participate in the [EECS Rising Stars 2019](https://publish.illinois.edu/rising-stars/) workshop
-
+---> 
 <!---
 - **July, 2019:** CS@UIUC Travel Grant to attend Grace Hopper Conference in Orlando, FL.
 - **March, 2019:** Paper accepted to ICWSM 2019.
