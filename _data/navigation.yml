@@ -1,17 +1,17 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/  
+#  - title: "Publications"
+#    url: /publications/  
 
-  - title: "Professional Experience"
-    url: /experience/
+#  - title: "Professional Experience"
+#    url: /experience/
     
-  - title: "Projects"
-    url: /portfolio/
+#  - title: "Projects"
+#    url: /portfolio/
 
 
-  - title: "CS6604SP21"
-    url: /cs6604SP21/
+#  - title: "CS6604SP21"
+#    url: /cs6604SP21/
 
   #- title: "Talks"
   #  url: /media/
