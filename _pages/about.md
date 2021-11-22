@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an Assistant Professor of Computer Science at Virginia Tech. Prior to VT, I spent a year as research scientist (Research Staff Member) at IBM Almaden Research Center, working on Machine Learning, Natural Language Processing  and Information Retrieval problems. I obtained my Ph.D. from the [Computer Science Department](http://cs.illinois.edu), [University of Illinois at Urbana - Champaign](http://illinois.edu), under the supervision of Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu), [Text Information Management and Analysis Group (TIMAN)](http://sifaka.cs.uiuc.edu/ir). 
+**<!---**I am an Assistant Professor of Computer Science at Virginia Tech. Prior to VT, I spent a year as research scientist (Research Staff Member) at IBM Almaden Research Center, working on Machine Learning, Natural Language Processing  and Information Retrieval problems. I obtained my Ph.D. from the [Computer Science Department](http://cs.illinois.edu), [University of Illinois at Urbana - Champaign](http://illinois.edu), under the supervision of Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu), [Text Information Management and Analysis Group (TIMAN)](http://sifaka.cs.uiuc.edu/ir). 
 
 
 My research interests lie in the intersection of Data Science, Big Data, Machine Learning, Natural Language Processing and Information Retrieval. My work revolves around machine learning challenges related to data, e.g., learning with limited imperfect supervision, self-supervision, uncertainty calibration, outlier detection, adversarial training, essentially work under the theme of  <span style="color:MediumSeaGreen">Data Quality in Machine Learning</span>. My current projects involve active and semi-supervised learning, contrastive multi-modal learning, graph adversarial learning, sequential decision making and interpretability mechanisms. Overall, I am interested in building intelligent task assistants that augment human intelligence. I have extensively collaborated on interdisciplinary projects that touch societal dimensions, in areas ranging from Health Informatics and Genomics to Psychology, Education and Social Computing. You can learn more by looking at my [publications](/publications). I am excited about opportunities to collaborate in areas such as *Reinforcement Learning*, *Multi-agent RL* and *Meta-learning*.
@@ -33,7 +33,7 @@ My research interests lie in the intersection of Data Science, Big Data, Machine
 - **November, 2020:** Will be joining the Computer Science Department at Virginia Tech as assistant professor.
 - **November, 2019:** Defended my PhD thesis: Data Quality in the Deep Learning Era and joined IBM Research.
 - **October, 2019:** Attending [ISWC 2019](https://iswc2019.semanticweb.org/) in Auckland, NZ (travel award)
-- **August, 2019:** Selected to participate in the [EECS Rising Stars 2019](https://publish.illinois.edu/rising-stars/) workshop
+- **August, 2019:** Selected to participate in the [EECS Rising Stars 2019](https://publish.illinois.edu/rising-stars/) workshop-->
 
 <!---
 - **July, 2019:** CS@UIUC Travel Grant to attend Grace Hopper Conference in Orlando, FL.
