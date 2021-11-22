@@ -17,9 +17,7 @@ My research interests lie in the intersection of Data Science, Big Data, Machine
 
 <!--- My main work is in the intersection of Data Science and Machine Learning, particularly improving Deep Learning models for real-world scenarios, considering all sorts of bottlenecks related to data noise, sparsity, domain shift and lack of annotations. I mainly focus on <span style="color:MediumSeaGreen">Active and Semi-supervised learning</span>. Previously worked on <span style="color:MediumSeaGreen">Deep Learning for Social Media Analysis</span>. Social media text is informal, abundant and full of linguistic variations. [TextNormSeq2Seq](https://github.com/Isminoula/TextNormSeq2Seq) is a hybrid Seq2Seq model that can serve as a pre-processing step for any NLP application to adapt to noisy social media text. I have also participated on interdisciplinary projects that touch societal problems.  You can learn more by looking at my [publications](/publications) or the descriptions of current and past [projects](/portfolio). I am excited about opportunities to collaborate in areas such as *Reinforcement Learning*, *Multi-agent RL* and *Meta-learning*.-->
 
-- *If you are a prospective student interested in working with me, please make sure to apply and include me in your research statement. Unfortunately, due to email overload, responding to such requests has become sporadic lately, and there is a high likelihood of missing an email.*
-
-# News
+<!---# News
 
 - **October, 2021:** Our Chest ImaGenome Dataset for Clinical Reasoning accepted to NeurIPS'21 Datasets and Benchmarks Track. Paper, dataset, and reviews are available at [OpenReview](https://openreview.net/forum?id=H-d5634yVi&noteId=zHHHvubn33m). Joint work with IBM Research, Rensselaer Polytechnic Institute, MIT Critical Data, Albert Einstein Healthcare Network and Harvard Medical School.
 - **August, 2021:** My student's paper on truncated sparse bit-vector representations was accepted to CIKM'21 Applied Track (joint work with [IBM Research](https://researcher.watson.ibm.com/researcher/view_group.php?id=9414)).
