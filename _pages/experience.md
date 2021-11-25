@@ -6,29 +6,25 @@ author_profile: true
 ---
 
 
-# Teaching Experience
-- **[CS5604@VT](/CS5604F21)** Information Storage and Retrieval, Fall 2021
-- **[CS6604@VT](/cs6604SP21)** Data Challenges in Machine Learning, Spring 2021
-- **CS410@UIUC Text Information Systems**, Head TA for Fall 2018, Spring+Fall 2017 and TA, Fall 2016 
-- **CS125@UIUC Intro to Computer Science**, TA, Fall 2013
-
 # Work Experience
-- Research Scientist @ **IBM Almaden Research Center**, San Jose, CA, November 2019 - December 2020
-- Internship @ **IBM Almaden Research Center**, San Jose, CA, Summer 2018
-- Internship @ **IBM Almaden Research Center**, San Jose, CA, Summer 2017
-- Internship @ **Microsoft Research**, Redmond, WA, Summer 2015
-- Technical reviewer for video courses: D3 for Dynamic Data Visualizations, **Packt Publishing**, April - June 2014 
-- Technical reviewer of the book: Data Visualization with D3.js Cookbook, **Packt Publishing**, August - September 2013
-- Former career in the banking sector @ **National Bank of Greece S.A.**, February 2004 - August 2013	 
+- Math Tutor @ **Research Foundation of CUNY**, Brooklyn, NY, February 2019 - Present
+- Internship @ **Office of Brooklyn Borough President**, Brooklyn, NY, September 2019 - October 2020
 
 # Awards
-- **Travel Award** for [ISWC 2019](https://iswc2019.semanticweb.org), Auckland, New Zealand
-- **Outstanding Teaching Assistant Award** - CS Department @ UIUC, Spring 2018
-- **Travel Award** for [ICWSM 2019](https://www.icwsm.org/2019), Munich, Germany
-- **Travel Award** for [ISWC 2018](http://iswc2018.semanticweb.org), Pacific Grove, CA *(declined, unable to travel)*
-- **Travel Award** for [ISWC 2017](http://iswc2017.semanticweb.org), Vienna, Austria
-- **Travel Award** for [IEEE Big Data 2017](http://cci.drexel.edu/bigdata/bigdata2017/), Boston, MA
-- **Travel Award** for [WiML 2017](https://wimlworkshop.org/2017/) (co-located with NIPS'17), Long Beach, CA
+1. [**Salutatorian Award**](https://drive.google.com/file/d/1kyjBZzHuZJoLkjpmwJXY3FCreK9e_pjK/view?usp=sharing) -- New York City College of Technology. \hfill Class of 2021
+
+2. [**SIAM Award**](https://drive.google.com/file/d/1oPQlZW0NmvmBBsPL99mnMeRKjtMqjfvp/view?usp=sharing) \hfill Academic year 2020–2021
+
+- In recognition of outstanding efforts and accomplishments 
+on behalf of the SIAM Chapter at City Tech.  
+
+
+3. [**Academic Excellence Award**](https://drive.google.com/file/d/1_Rtw5jhuiAtMpCsRQMaOkMNEJnM3bES8/view?usp=sharing) -- School of Art and Science, City Tech. \hfill June 2021
+4. **Recipient of National Science Foundation (NSF) Scholarship ** \hfill Fall 2017 - Spring 2021 
+- For high achieving financially needy students, $3100 per semester. 
+
+5. **Dean’s List** --New York City College of Technology. \hfill 
+Academic year 2017–2021
 
 - **Microsoft Azure Research Award**
 November 2014 - 14 awards given by Microsoft  
