@@ -1,13 +1,15 @@
 # main links links
 main:
+  - title: "Projects"
+    url: /project/
+    
   - title: "Publications"
     url: /publications/  
 
   - title: "Professional Experience"
     url: /experience/
     
-  - title: "Projects"
-    url: /project/
+
 
 
   #- title: "CS5604F21"
