@@ -8,7 +8,7 @@ author_profile: true
 
 # Papers
 
--***Open Source Computational Framework in R for Studying Biological Rhythms via Analysis of Behavioral Phase and Circular Statistics”*** 
+***Open Source Computational Framework in R for Studying Biological Rhythms via Analysis of Behavioral Phase and Circular Statistics*** 
 
 Published in STAR  Protocols in March, 2021
 
