@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an online master's student at Georgia Tech studying Analytics. I will be starting my Ph.D. study in Computer Science & Applications at Virginia Tech in fall 2022. I received a Bachelor's degree in Applied Mathematics and an Associate's degree in Computer Science with honors (GPA: 4.0/4.0) from New York City College of Technology, where I graduated as [Salutatorian](https://www.citytech.cuny.edu/news/?id=1511) of my class.
+I'm a Ph.D. student at Virginia Tech studying Computer Science & Applications. I received a Bachelor's degree in Applied Mathematics and an Associate's degree in Computer Science with honors (GPA: 4.0/4.0) from New York City College of Technology, where I graduated as [Salutatorian](https://www.citytech.cuny.edu/news/?id=1511) of my class.
 
  My research interests are on the applications of data science and machine learning in areas, including, but not limited to, Health Informatics, Education (Intelligent Tutoring Systems), and Social Computing. I'm actively applying to summer internship/research opportunities. I hope to learn more about ML through internships. 
 
