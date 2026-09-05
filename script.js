@@ -9,11 +9,11 @@ const publications = [
 ];
 
 function renderPublications() {
-  publications.forEach((paper, index) => {
+  publications.forEach((paper) => {
     const article = document.createElement('article');
     article.className = 'publication';
     article.innerHTML = `<h3 class="pub-title"><a href="${paper.url}" target="_blank" rel="noopener" aria-label="Open publication: ${paper.title}">${paper.title} <span aria-hidden="true">↗</span></a></h3><p class="pub-authors">${paper.authors.replace('Xiaona Zhou', '<strong>Xiaona Zhou</strong>')}</p><p class="pub-meta"><strong>${paper.venue} ${paper.year}</strong>${paper.oral ? ' · Oral presentation' : ''}</p>`;
-    document.querySelector(index < 5 ? '#publication-list' : '#older-publications').append(article);
+    document.querySelector('#publication-list').append(article);
   });
 }
 renderPublications();

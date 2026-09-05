@@ -79,11 +79,6 @@ h3 { font-size: 23px; font-weight: 500; line-height: 1.45; margin-bottom: 8px; }
 .pub-authors strong { font-weight: 600; color: var(--ink); }
 .pub-meta { font-size: 16px; line-height: 1.6; margin: 0; color: var(--muted); }
 .pub-meta strong { font-weight: 600; color: var(--ink); }
-.more-publications { margin-top: 26px; }
-.more-publications summary { cursor: pointer; font-size: 18px; padding: 8px 0; width: fit-content; }
-.more-publications summary:hover { color: var(--green); }
-.more-publications summary span { color: var(--muted); }
-.more-publications[open] summary { margin-bottom: 24px; }
 .timeline article { display: grid; grid-template-columns: 190px 1fr; gap: 28px; margin-bottom: 30px; }
 .timeline article:last-child { margin-bottom: 0; }
 .timeline-date { color: var(--muted); font-size: 18px; padding-top: 3px; margin-bottom: 0; }
